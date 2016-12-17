@@ -1,0 +1,27 @@
+/*
+#cover {
+background-image: url('../img/back-squat.jpg');
+background-repeat: no-repeat;
+background-position: center;
+padding: 25em;
+background-size: cover;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+}
+*/
+
+/* FF6600 ORANGE COLOR*/
+body {
+  padding: 70px;
+  background-color: black;
+}
+
+h1 {
+  text-align: justify;
+}
+
+.cycles-description {
+  font-family: 'Merriweather', serif;
+  color: #CCCCCC;
+}
